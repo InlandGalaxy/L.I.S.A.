@@ -1,5 +1,5 @@
 # L.I.S.A.
-This is a Webbrowser made in Python
+This is a Webbrowser made in Python. Of course it's not in the .py format. It's in my own .lili format ;D
 
 It's very basic but it will get updated soon.
 
