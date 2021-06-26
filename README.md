@@ -4,3 +4,5 @@ This is a Webbrowser made in Python. Of course it's not in the .py format. It's 
 It's very basic but it will get updated soon.
 
 ![LISA](https://user-images.githubusercontent.com/65157905/123520582-a58d7a00-d6b1-11eb-9c90-74b34c3774ce.png)
+
+L.I.S.A. uses PyQtWebEngine and PyQt5
